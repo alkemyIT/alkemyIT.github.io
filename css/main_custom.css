@@ -1,0 +1,331 @@
+﻿body{
+  margin: 0;
+  padding: 0;
+  min-width: 1250px;
+}
+
+.pre_header{
+  background-color: #192F42;
+  float: left;
+  width: 100%;
+}
+
+.header {
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.31);
+  background-color: #F2EAE4;
+  float: left;
+  width: 100%;  
+}
+
+.block.left{
+  display: block;
+  float: left;
+}
+
+.block.right{
+  display: block;
+  float: right;
+}
+
+
+div.ThumbGroup{
+  display: table;
+  table-layout: fixed;
+  float: left;
+}
+
+div.ThumbGroup .popup_anchor{
+  display: table-cell;
+  width: 175px;
+}
+
+div.Thumb.popup_element{
+  padding: 48px 5px;
+  box-sizing: border-box;
+  font-family: tahoma;
+  color: #850038;
+  text-align: center;
+  left: 0!important;
+}
+
+div.Thumb.popup_element:hover{
+  background-color: #850038 !important;
+  color: white;
+  cursor: pointer;
+}
+div.Thumb.popup_element.PamphletThumbSelected{
+  color: white;
+}
+
+.ContainerGroup{
+  width: 100%;
+}
+
+.content{
+  padding-top: 10px;
+  clear: both;
+}
+
+.content img{
+  width: 100%;
+}
+
+#u5130 {
+    width: 100%;
+        display:none;
+    z-index: 27;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+    background-image: url("../images/focus%20area%20open%20copia.png");
+}
+#u6169 {
+    width: 100%;display:none;
+    z-index: 28;
+    position: relative;
+    border-color: #999999;
+    border-style: solid;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+    background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
+}
+#u6216 {
+  
+    width: 100%;display:none;
+    z-index: 29;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+    background-image: url("../images/about%20us%20open.png");
+}
+
+@media (min-width: 1921px), print{
+ .pre_header img{ 
+    padding: 5px 0
+ }
+ img.block.left, img.block.right{
+  height: 58px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 150px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 220px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 130px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 145px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 175px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 125px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 26PX;
+  padding: 70px 5px;
+  width: inherit!important;
+ }
+ .header img{
+   height: 160px!important;
+ }
+  .ContainerGroup {
+    position: absolute;
+    top: 239px;
+ }
+     #u5130 {
+        height: 739px;
+        
+    }
+    #u6169 {
+        height: 739px;
+    }
+    #u6216 {
+        height: 739px;
+        
+    }
+
+}
+
+@media (min-width: 1601px) and (max-width: 1920px) {
+  .pre_header img{ 
+    padding: 5px 0
+ }
+ img.block.left, img.block.right{
+  height: 50px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 145px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 190px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 120px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 120px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 170px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 120px!important;
+ }
+ div.Thumb.popup_element{
+  font-size: 22PX;
+  padding: 48px 5px;
+  width: inherit!important;
+ }
+ .header img{
+   height: 115px!important;
+ }
+ .PamphletWidget{
+   left: 400px!important;
+ }
+ .ContainerGroup {
+    position: absolute;
+    top: 183px;
+ }
+ #u5130 {
+        height: 540px;
+    }
+    #u6169 {
+        height: 540px;
+    }
+    #u6216 {
+        height: 540px;
+    }
+}
+
+@media (min-width: 1369px) and (max-width: 1600px) {
+ .pre_header img{ 
+    padding: 5px 0
+ }
+ img.block.left, img.block.right{
+  height: 42px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 110px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 165px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 100px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 100px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 19PX;
+  padding: 42px 5px;
+  width: inherit!important;
+ }
+ .header img{
+   height: 105px!important;
+ }
+ .PamphletWidget{
+   left: 365px!important;
+ }
+ .ContainerGroup {
+   position: absolute;
+    top: 183px;
+ }
+ #u5130 {
+        width: 100%;
+        height: 538px;
+        background-image: url("../images/focus%20area%20open%20copia-u5130-fr.png?crc=4001975672");
+    }
+    #u6169 {
+        width: 100%;
+        height: 538px;
+    }
+    #u6216 {
+        width: 100%;
+        height: 538px;
+        background-image: url("../images/about%20us%20open-u6216-fr.png?crc=399075974");
+    }
+}
+
+@media (max-width: 1368px) {
+ .pre_header img{ 
+    padding: 5px 0
+ }
+ img.block.left, img.block.right{
+  height: 36px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 140px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 105px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 15PX;
+  padding: 36px 5px;
+  width: inherit!important;
+ }
+ .header img{
+   height: 85px!important;
+ }
+ .PamphletWidget{
+   margin-left: 300px!important
+ }
+ .ContainerGroup {
+   position: absolute;
+    top: 135px;
+ }
+ #u5130 {
+        height: 538px;
+    }
+    #u6169 {
+        height: 538px;
+    }
+    #u6216 {
+        height: 538px;
+    }
+}

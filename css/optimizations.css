@@ -1,0 +1,200 @@
+﻿.SlideShowWidget{
+  width: 100% !important;
+}
+
+.SSPreviousButton, .SSNextButton {
+  background-position: center center!important;
+}
+
+.SlideShowWidget .popup_anchor{
+  width: 100% !important;
+}
+
+.SlideShowWidget .SSNextButton {
+  left: auto !important;
+  right: 15px !important;
+}
+
+div.ThumbGroup{
+  width: 1020px!important;
+  display: table;
+  table-layout: fixed;
+}
+
+div.ThumbGroup .popup_anchor{
+  display: table-cell;
+  width: 175px;
+}
+
+div.Thumb.popup_element{
+  padding: 48px 10PX;
+  box-sizing: border-box;
+  font-family: tahoma;
+  color: #850038;
+  text-align: center;
+  left: 0!important;
+}
+
+div.Thumb.popup_element:hover{
+  background-color: #850038 !important;
+  color: white;
+}
+div.Thumb.popup_element.PamphletThumbSelected{
+  color: white;
+}
+
+@media (min-width: 1921px), print{
+ img.block.left, img.block.right{
+  height: 58px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 150px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 220px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 130px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 145px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 175px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 125px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 26PX;
+  padding: 70px 10PX;
+  width: inherit!important;
+  height: 160px;
+ }
+ #u530l_img, #u530r_img{
+   height: 160px!important;
+ }
+ .PamphletWidget{
+   left: 530px!important;
+ }
+ .ContainerGroup {
+   left: -530px!important;
+ }
+}
+
+@media (min-width: 1601px) and (max-width: 1920px) {
+ img.block.left, img.block.right{
+  height: 50px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 150px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 195px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 175px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 125px!important;
+ }
+ div.Thumb.popup_element{
+  font-size: 22PX;
+  padding: 48px 10PX;
+  width: inherit!important;
+  height: 115px;
+ }
+ #u530l_img, #u530r_img{
+   height: 115px!important;
+ }
+ .PamphletWidget{
+   left: 400px!important;
+ }
+ .ContainerGroup {
+   left: -400px!important;
+ }
+}
+
+@media (min-width: 1369px) and (max-width: 1600px) {
+ img.block.left, img.block.right{
+  height: 42px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 110px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 165px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 100px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 100px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 19PX;
+  padding: 54px 5px;
+  width: inherit!important;
+  height: 104px;
+ }
+ #u530l_img, #u530r_img{
+   height: 104px!important;
+ }
+ .PamphletWidget{
+   left: 365px!important;
+ }
+ .ContainerGroup {
+   left: -365px!important;
+ }
+}
+
+@media (max-width: 1368px) {
+ img.block.left, img.block.right{
+  height: 36px;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(1){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(2){
+   width: 140px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(3){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(4){
+   width: 105px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(5){
+   width: 125px!important;
+ }
+ div.ThumbGroup .popup_anchor:nth-child(6){
+   width: 105px!important;
+ }
+  div.Thumb.popup_element{
+  font-size: 15PX;
+  padding: 36px 10PX;
+  width: inherit!important;
+  height: 85px;
+ }
+ #u530l_img, #u530r_img{
+   height: 85px!important;
+ }
+ .PamphletWidget{
+   margin-left: 300px!important
+ }
+ .ContainerGroup {
+   left: -300px!important;
+ }
+}

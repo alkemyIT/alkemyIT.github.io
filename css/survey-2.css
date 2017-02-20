@@ -1,0 +1,1120 @@
+.version.survey_2 {
+    color: #0000FF;
+    background-color: #5C2B0A;
+}
+.js body {
+    visibility: hidden;
+}
+.js body.initialized {
+    visibility: visible;
+}
+#page {
+    z-index: 1;
+    margin-left: auto;
+    border-color: #000000;
+    background-image: none;
+    background-color: transparent;
+    width: 100%;
+    border-width: 0px;
+    margin-right: auto;
+}
+#u8211 {
+    z-index: 15;
+    padding-bottom: 6px;
+    background-color: #192F42;
+}
+#u8207 {
+    z-index: 16;
+    margin-right: -10000px;
+    background-color: transparent;
+    margin-top: 6px;
+    position: relative;
+}
+#u8169 {
+    z-index: 23;
+    margin-right: -10000px;
+    background-color: transparent;
+    margin-top: 6px;
+    position: relative;
+}
+#u8211-bw {
+    z-index: 15;
+}
+#pamphletu8187 {
+    z-index: 6;
+    width: 0.01px;
+    position: relative;
+}
+#u8188popup {
+    z-index: 7;
+}
+#u8191 {
+    z-index: 8;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u8189 {
+    z-index: 9;
+    position: relative;
+    border-color: #999999;
+    border-style: solid;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    border-width: 1px;
+    opacity: 0.98;
+    background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
+    background-size: cover;
+}
+#u8190 {
+    z-index: 10;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u8196 {
+    z-index: 11;
+    position: relative;
+    margin-right: -10000px;
+}
+.PamphletWidget .ThumbGroup .Thumb,
+.PamphletNextButton,
+.PamphletPrevButton,
+.PamphletCloseButton {
+    cursor: pointer;
+}
+#pu8186 {
+    z-index: 2;
+    width: 100%;
+}
+#u8186 {
+    z-index: 2;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.31);
+    background-color: #F2EAE4;
+}
+#u8211_align_to_page,
+#u8186_align_to_page {
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;
+}
+#u8202 {
+    z-index: 3;
+    margin-right: -10000px;
+    background-color: transparent;
+    position: relative;
+}
+#u8186-bw {
+    z-index: 2;
+}
+#u8209 {
+    z-index: 19;
+    margin-right: -10000px;
+    position: relative;
+}
+#u8210 {
+    z-index: 20;
+    margin-right: -10000px;
+    position: relative;
+}
+#u8205 {
+    z-index: 21;
+    margin-right: -10000px;
+    background-color: transparent;
+    position: relative;
+}
+#pamphletu8171 {
+    z-index: 25;
+    margin-right: -10000px;
+    width: 0.01px;
+    position: relative;
+}
+#u8188,
+#u8176 {
+    position: absolute;
+    background-color: transparent;
+}
+#u8176popup {
+    z-index: 26;
+}
+#u8178 {
+    z-index: 27;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u8179 {
+    z-index: 28;
+    position: relative;
+    border-color: #999999;
+    border-style: solid;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    border-width: 1px;
+    opacity: 0.98;
+    background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
+    background-size: cover;
+}
+#u8177 {
+    z-index: 29;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u8180 {
+    z-index: 30;
+    position: relative;
+    margin-right: -10000px;
+}
+#u8197,
+#u8198,
+#u8199,
+#u8181,
+#u8183,
+#u8182 {
+    border-width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+    position: absolute;
+}
+#u8197:hover,
+#u8198:hover,
+#u8199:hover,
+#u8181:hover,
+#u8183:hover,
+#u8182:hover {
+    min-height: 0px;
+    background-color: transparent;
+    margin: 0px;
+}
+#u8197.PamphletThumbSelected,
+#u8198.PamphletThumbSelected,
+#u8199.PamphletThumbSelected,
+#u8181.PamphletThumbSelected,
+#u8183.PamphletThumbSelected,
+#u8182.PamphletThumbSelected {
+    min-height: 0px;
+    border-color: transparent;
+    background-color: #850038;
+    border-width: 0px;
+    margin: 0px;
+}
+.ie #u8197.PamphletThumbSelected,
+.ie #u8198.PamphletThumbSelected,
+.ie #u8199.PamphletThumbSelected,
+.ie #u8181.PamphletThumbSelected,
+.ie #u8183.PamphletThumbSelected,
+.ie #u8182.PamphletThumbSelected {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+#u8881 {
+    z-index: 34;
+    position: relative;
+    margin-right: -10000px;
+}
+#u8887 {
+    z-index: 35;
+    margin-right: -10000px;
+    position: relative;
+}
+.ie #u8197:hover,
+.ie #u8197,
+.ie #u8198:hover,
+.ie #u8198,
+.ie #u8199:hover,
+.ie #u8199,
+.ie #u8209,
+.ie #u8210,
+.ie #u8181:hover,
+.ie #u8181,
+.ie #u8183:hover,
+.ie #u8183,
+.ie #u8182:hover,
+.ie #u8182,
+.ie #u8881,
+.ie #u8887 {
+    background-color: #FFFFFF;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+    filter: alpha(opacity=1);
+    opacity: 0.01;
+}
+#u8212 {
+    z-index: 5;
+    background-position: left top;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=100);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: transparent;
+    width: 100%;
+    position: relative;
+    opacity: 1;
+    background-size: cover;
+}
+#u8204 {
+    z-index: 18;
+    background-position: left top;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=100);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: transparent;
+    width: 100%;
+    position: relative;
+    opacity: 1;
+    background-size: contain;
+}
+.html {
+    background-color: #FFFFFF;
+}
+body {
+    position: relative;
+}
+@media (min-width: 1921px),
+print {
+    #muse_css_mq {
+        background-color: #FFFFFF;
+    }
+    #bp_infinity.active {
+        display: block;
+    }
+    #page {
+        min-height: 438px;
+        padding-bottom: 62px;
+        max-width: 2560px;
+    }
+    #u8211,
+    #u8211-bw {
+        min-height: 73px;
+    }
+    #pu8186 {
+        padding-bottom: 1px;
+        margin-top: -7px;
+    }
+    #u8186 {
+        min-height: 148px;
+    }
+    #u8211_align_to_page,
+    #u8186_align_to_page {
+        max-width: 2560px;
+    }
+    #u8202 {
+        margin-bottom: -7px;
+        margin-top: -5px;
+        width: 100%;
+    }
+    #u8186-bw {
+        min-height: 148px;
+        margin-top: 7px;
+    }
+    #pamphletu8187 {
+        height: 160px;
+        padding-bottom: 729px;
+        margin-right: -10000px;
+        margin-top: 6px;
+    }
+    #u8188 {
+        width: 2561px;
+        top: 149px;
+    }
+    #u8196 {
+        width: 608px;
+        left: 629px;
+    }
+    #u8197 {
+        width: 196px;
+        height: 155px;
+    }
+    #u8197:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u8198 {
+        width: 196px;
+        height: 160px;
+        left: 206px;
+    }
+    #u8198:hover {
+        width: 196px;
+        height: 160px;
+    }
+    #u8199 {
+        width: 196px;
+        height: 155px;
+        left: 412px;
+    }
+    #u8197.PamphletThumbSelected,
+    #u8199:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u8209 {
+        margin-top: 15px;
+        width: 24.22%;
+        left: 0.2%;
+    }
+    #u8209 .fluid_height_spacer {
+        padding-bottom: 22.58064516129032%;
+    }
+    #u8210 {
+        margin-top: 15px;
+        width: 12.54%;
+        left: 77.15%;
+    }
+    #u8210 .fluid_height_spacer {
+        padding-bottom: 43.613707165109034%;
+    }
+    #u8205 {
+        margin-top: 2px;
+        width: 100%;
+    }
+    #u8207,
+    #u8207_img,
+    #u8169,
+    #u8169_img,
+    #u8202_img,
+    #u8205_img {
+        width: 100%;
+    }
+    #pamphletu8171 {
+        height: 160px;
+        margin-top: 6px;
+        left: 24.58%;
+    }
+    #u8176 {
+        width: 2561px;
+        top: 149px;
+        left: -629px;
+    }
+    #u8191,
+    #u8178 {
+        width: 2559px;
+        height: 739px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u8189,
+    #u8179 {
+        width: 2559px;
+        height: 739px;
+    }
+    #u8190,
+    #u8177 {
+        width: 2559px;
+        height: 739px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u8180 {
+        width: 608px;
+    }
+    #u8199.PamphletThumbSelected,
+    #u8181 {
+        width: 196px;
+        height: 155px;
+    }
+    #u8181:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u8183 {
+        width: 196px;
+        height: 160px;
+        left: 206px;
+    }
+    #u8198.PamphletThumbSelected,
+    #u8183:hover {
+        width: 196px;
+        height: 160px;
+    }
+    #u8183.PamphletThumbSelected {
+        width: 196px;
+        height: 160px;
+    }
+    #u8182 {
+        width: 196px;
+        height: 155px;
+        left: 412px;
+    }
+    #u8181.PamphletThumbSelected,
+    #u8182:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u8182.PamphletThumbSelected {
+        width: 196px;
+        height: 155px;
+    }
+    #u8881 {
+        width: 23.6%;
+    }
+    #u8881 .fluid_height_spacer {
+        padding-bottom: 25.662251655629138%;
+    }
+    #u8887 {
+        margin-top: 6px;
+        width: 12.9%;
+        left: 76.25%;
+    }
+    #u8887 .fluid_height_spacer {
+        padding-bottom: 45.151515151515156%;
+    }
+    #pu8212 {
+        z-index: 5;
+        margin-top: -741px;
+        width: 100%;
+    }
+    #u8212 {
+        background-image: url("../images/pag-survey%20copia%202.jpg?crc=490411070");
+        margin-right: -10000px;
+    }
+    #u8212 .fluid_height_spacer {
+        padding-bottom: 59.53125%;
+    }
+    #u8204 {
+        background-image: url("../images/foote-2.jpg?crc=359972577");
+        margin-right: -10000px;
+        margin-top: 1469px;
+    }
+    #u8204 .fluid_height_spacer {
+        padding-bottom: 5.6640625%;
+    }
+}
+@media (min-width: 1601px) and (max-width: 1920px) {
+    #muse_css_mq {
+        background-color: #000780;
+    }
+    #bp_1920.active {
+        display: block;
+    }
+    #page {
+        min-height: 438px;
+        padding-bottom: 62px;
+        max-width: 1920px;
+    }
+    #u8211,
+    #u8211-bw {
+        min-height: 56px;
+    }
+    #pu8186 {
+        padding-bottom: 1px;
+        margin-top: -5px;
+    }
+    #u8211_align_to_page,
+    #u8186_align_to_page {
+        max-width: 1920px;
+    }
+    #u8186,
+    #u8186-bw {
+        min-height: 120px;
+    }
+    #pamphletu8187 {
+        height: 114px;
+        padding-bottom: 532px;
+        margin-right: -10000px;
+        margin-top: 5px;
+        left: 0.06%;
+    }
+    #u8188 {
+        width: 1922px;
+        top: 116px;
+    }
+    #u8196 {
+        width: 466px;
+        left: 485px;
+    }
+    #u8197 {
+        width: 147px;
+        height: 115px;
+    }
+    #u8197:hover {
+        width: 147px;
+        height: 115px;
+    }
+    #u8198 {
+        width: 175px;
+        height: 115px;
+        left: 147px;
+    }
+    #u8198:hover {
+        width: 175px;
+        height: 115px;
+    }
+    #u8199 {
+        width: 144px;
+        height: 115px;
+        left: 322px;
+    }
+    #u8199:hover {
+        width: 144px;
+        height: 115px;
+    }
+    #u8209 {
+        margin-top: 30px;
+        width: 24.22%;
+        left: 0.21%;
+    }
+    #u8209 .fluid_height_spacer {
+        padding-bottom: 22.58064516129032%;
+    }
+    #u8210 {
+        margin-top: 30px;
+        width: 12.56%;
+        left: 77.14%;
+    }
+    #u8210 .fluid_height_spacer {
+        padding-bottom: 43.56846473029046%;
+    }
+    #u8207,
+    #u8169,
+    #u8202,
+    #u8205 {
+        width: 100%;
+    }
+    #u8202_img,
+    #u8205_img {
+        margin-left: 24px;
+        margin-right: -24px;
+    }
+    #pamphletu8171 {
+        height: 115px;
+        margin-top: 5px;
+        left: 25.21%;
+    }
+    #u8176 {
+        width: 1922px;
+        top: 116px;
+        left: -485px;
+    }
+    #u8191,
+    #u8178 {
+        width: 100%;
+        height: 530px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u8189,
+    #u8179 {
+        width: 100%;
+        height: 530px;
+    }
+    #u8190,
+    #u8177 {
+        width: 100%;
+        height: 530px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u8180 {
+        width: 466px;
+    }
+    #u8197.PamphletThumbSelected,
+    #u8181 {
+        width: 147px;
+        height: 115px;
+    }
+    #u8181:hover {
+        width: 147px;
+        height: 115px;
+    }
+    #u8181.PamphletThumbSelected {
+        width: 147px;
+        height: 115px;
+    }
+    #u8183 {
+        width: 175px;
+        height: 115px;
+        left: 147px;
+    }
+    #u8198.PamphletThumbSelected,
+    #u8183:hover {
+        width: 175px;
+        height: 115px;
+    }
+    #u8183.PamphletThumbSelected {
+        width: 175px;
+        height: 115px;
+    }
+    #u8182 {
+        width: 144px;
+        height: 115px;
+        left: 322px;
+    }
+    #u8199.PamphletThumbSelected,
+    #u8182:hover {
+        width: 144px;
+        height: 115px;
+    }
+    #u8182.PamphletThumbSelected {
+        width: 144px;
+        height: 115px;
+    }
+    #u8881 {
+        margin-top: 15px;
+        width: 23.6%;
+    }
+    #u8881 .fluid_height_spacer {
+        padding-bottom: 25.607064017660043%;
+    }
+    #u8887 {
+        margin-top: 21px;
+        width: 12.92%;
+        left: 76.25%;
+    }
+    #u8887 .fluid_height_spacer {
+        padding-bottom: 45.16129032258064%;
+    }
+    #u8212 {
+        background-image: url("../images/pag-survey%20copia%202.jpg?crc=490411070");
+        top: -482px;
+        margin-bottom: -482px;
+    }
+    #u8212 .fluid_height_spacer {
+        padding-bottom: 59.53125%;
+    }
+    #u8204 {
+        background-image: url("../images/foote-2.jpg?crc=359972577");
+        margin-top: 326px;
+    }
+    #u8204 .fluid_height_spacer {
+        padding-bottom: 5.677083333333333%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+@media (min-width: 1369px) and (max-width: 1600px) {
+    #muse_css_mq {
+        background-color: #000640;
+    }
+    #bp_1600.active {
+        display: block;
+    }
+    #page {
+        min-height: 438px;
+        padding-bottom: 62px;
+        max-width: 1600px;
+    }
+    #ppamphletu8187 {
+        z-index: 6;
+        padding-bottom: 1px;
+        width: 100%;
+    }
+    #pamphletu8187 {
+        height: 104px;
+        padding-bottom: 539px;
+        margin-right: -10000px;
+        margin-top: 37px;
+    }
+    #u8188 {
+        width: 1601px;
+        top: 103px;
+    }
+    #u8196 {
+        width: 377px;
+        left: 398px;
+    }
+    #u8197 {
+        width: 119px;
+        height: 104px;
+    }
+    #u8197:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u8198 {
+        width: 129px;
+        height: 104px;
+        left: 119px;
+    }
+    #u8198:hover {
+        width: 129px;
+        height: 104px;
+    }
+    #u8199 {
+        width: 119px;
+        height: 104px;
+        left: 258px;
+    }
+    #u8197.PamphletThumbSelected,
+    #u8199:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u8211,
+    #u8211-bw {
+        min-height: 48px;
+    }
+    #pamphletu8171 {
+        height: 104px;
+        margin-top: 37px;
+        left: 24.88%;
+    }
+    #u8176 {
+        width: 1601px;
+        top: 103px;
+        left: -398px;
+    }
+    #u8191,
+    #u8178 {
+        width: 1599px;
+        height: 540px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u8189,
+    #u8179 {
+        width: 1599px;
+        height: 540px;
+    }
+    #u8190,
+    #u8177 {
+        width: 1599px;
+        height: 540px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u8180 {
+        width: 377px;
+    }
+    #u8199.PamphletThumbSelected,
+    #u8181 {
+        width: 119px;
+        height: 104px;
+    }
+    #u8181:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u8183 {
+        width: 129px;
+        height: 104px;
+        left: 119px;
+    }
+    #u8198.PamphletThumbSelected,
+    #u8183:hover {
+        width: 129px;
+        height: 104px;
+    }
+    #u8183.PamphletThumbSelected {
+        width: 129px;
+        height: 104px;
+    }
+    #u8182 {
+        width: 119px;
+        height: 104px;
+        left: 258px;
+    }
+    #u8181.PamphletThumbSelected,
+    #u8182:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u8182.PamphletThumbSelected {
+        width: 119px;
+        height: 104px;
+    }
+    #pu8186 {
+        margin-top: -633px;
+    }
+    #u8186 {
+        min-height: 88px;
+    }
+    #u8211_align_to_page,
+    #u8186_align_to_page {
+        max-width: 1600px;
+    }
+    #u8202 {
+        width: 100%;
+        margin-bottom: -7px;
+        margin-top: -5px;
+    }
+    #u8186-bw {
+        min-height: 88px;
+        margin-top: 5px;
+    }
+    #u8209 {
+        margin-top: 38px;
+        width: 24.25%;
+        left: 0.19%;
+    }
+    #u8209 .fluid_height_spacer {
+        padding-bottom: 22.68041237113402%;
+    }
+    #u8210 {
+        margin-top: 38px;
+        width: 12.57%;
+        left: 77.13%;
+    }
+    #u8210 .fluid_height_spacer {
+        padding-bottom: 43.78109452736319%;
+    }
+    #u8207,
+    #u8169,
+    #u8205 {
+        width: 100%;
+    }
+    #u8881 {
+        margin-top: 23px;
+        width: 23.63%;
+    }
+    #u8881 .fluid_height_spacer {
+        padding-bottom: 25.66137566137566%;
+    }
+    #u8887 {
+        margin-top: 29px;
+        width: 12.88%;
+        left: 76.25%;
+    }
+    #u8887 .fluid_height_spacer {
+        padding-bottom: 45.14563106796117%;
+    }
+    #u8212 {
+        background-image: url("../images/pag-survey%20copia%202.jpg?crc=490411070");
+        top: -455px;
+        margin-bottom: -455px;
+    }
+    #u8212 .fluid_height_spacer {
+        padding-bottom: 59.56249999999999%;
+    }
+    #u8204 {
+        background-image: url("../images/foote-2.jpg?crc=359972577");
+        margin-top: 516px;
+    }
+    #u8204 .fluid_height_spacer {
+        padding-bottom: 5.6875%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width: 1368px) {
+    #muse_css_mq {
+        background-color: #000558;
+    }
+    #bp_1368.active {
+        display: block;
+    }
+    #page {
+        min-height: 437.515625px;
+        padding-bottom: 62.484375px;
+        max-width: 1368px;
+    }
+    #u8211,
+    #u8211-bw {
+        min-height: 42px;
+    }
+    #pamphletu8187 {
+        height: 85px;
+        padding-bottom: 532px;
+        top: -5px;
+        margin-bottom: -5px;
+    }
+    #u8188 {
+        width: 1369px;
+        top: 78px;
+    }
+    #u8196 {
+        width: 322px;
+        left: 337px;
+    }
+    #u8197 {
+        width: 104px;
+        height: 85px;
+    }
+    #u8197:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #u8198 {
+        width: 114px;
+        height: 85px;
+        left: 104px;
+    }
+    #u8198:hover {
+        width: 114px;
+        height: 85px;
+    }
+    #u8199 {
+        width: 104px;
+        height: 85px;
+        left: 218px;
+    }
+    #u8197.PamphletThumbSelected,
+    #u8199:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #pu8186 {
+        margin-top: -617px;
+    }
+    #u8186 {
+        min-height: 74px;
+    }
+    #u8211_align_to_page,
+    #u8186_align_to_page {
+        max-width: 1368px;
+    }
+    #u8202 {
+        width: 1368px;
+        margin-bottom: -6px;
+        margin-top: -5px;
+    }
+    #u8186-bw {
+        min-height: 74px;
+        margin-top: 5px;
+    }
+    #u8209 {
+        margin-top: 44px;
+        width: 24.2%;
+        left: 0.22%;
+    }
+    #u8209 .fluid_height_spacer {
+        padding-bottom: 22.658610271903324%;
+    }
+    #u8210 {
+        margin-top: 44px;
+        width: 12.58%;
+        left: 77.12%;
+    }
+    #u8210 .fluid_height_spacer {
+        padding-bottom: 43.604651162790695%;
+    }
+    #u8207,
+    #u8169,
+    #u8205 {
+        width: 1368px;
+    }
+    #pamphletu8171 {
+        height: 85px;
+        left: 24.64%;
+    }
+    #u8176 {
+        width: 1369px;
+        top: 78px;
+        left: -337px;
+    }
+    #u8191,
+    #u8178 {
+        width: 1367px;
+        height: 538px;
+        background-image: url("../images/focus%20area%20open%20copia-u5130-fr.png?crc=4001975672");
+    }
+    #u8189,
+    #u8179 {
+        width: 1367px;
+        height: 538px;
+    }
+    #u8190,
+    #u8177 {
+        width: 1367px;
+        height: 538px;
+        background-image: url("../images/about%20us%20open-u6216-fr.png?crc=399075974");
+    }
+    #u8180 {
+        width: 322px;
+    }
+    #u8199.PamphletThumbSelected,
+    #u8181 {
+        width: 104px;
+        height: 85px;
+    }
+    #u8181:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #u8183 {
+        width: 114px;
+        height: 85px;
+        left: 104px;
+    }
+    #u8198.PamphletThumbSelected,
+    #u8183:hover {
+        width: 114px;
+        height: 85px;
+    }
+    #u8183.PamphletThumbSelected {
+        width: 114px;
+        height: 85px;
+    }
+    #u8182 {
+        width: 104px;
+        height: 85px;
+        left: 218px;
+    }
+    #u8181.PamphletThumbSelected,
+    #u8182:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #u8182.PamphletThumbSelected {
+        width: 104px;
+        height: 85px;
+    }
+    #u8881 {
+        margin-top: 29px;
+        width: 23.62%;
+    }
+    #u8881 .fluid_height_spacer {
+        padding-bottom: 25.696594427244584%;
+    }
+    #u8887 {
+        margin-top: 35px;
+        width: 12.87%;
+        left: 76.25%;
+    }
+    #u8887 .fluid_height_spacer {
+        padding-bottom: 45.45454545454545%;
+    }
+    #u8212 {
+        background-image: url("../images/pag-survey%20copia%202-u8212-fr.jpg?crc=482523995");
+        top: -433px;
+        margin-bottom: -433px;
+    }
+    #u8212 .fluid_height_spacer {
+        padding-bottom: 59.50292397660819%;
+    }
+    #u8204 {
+        background-image: url("../images/foote-2-u7369-fr.jpg?crc=8827729");
+        margin-top: 655px;
+    }
+    #u8204 .fluid_height_spacer {
+        padding-bottom: 5.628654970760234%;
+    }
+    body {
+        overflow-x: hidden;
+        min-width: 320px;
+    }
+}

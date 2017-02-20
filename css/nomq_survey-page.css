@@ -1,0 +1,177 @@
+#muse_css_mq {
+    background-color: #FFFFFF;
+}
+#bp_infinity.active {
+    display: block;
+}
+#page {
+    min-height: 437.9000000000001px;
+    padding-bottom: 62.09999999999991px;
+    max-width: 2560px;
+}
+#u7114 {
+    z-index: 7;
+    width: 100%;
+}
+#u7455 {
+    z-index: 14;
+    width: 100%;
+}
+#u7133,
+#u7133-bw {
+    z-index: 6;
+    min-height: 73px;
+}
+#pu7131 {
+    margin-top: -5px;
+}
+#u7131 {
+    min-height: 148px;
+}
+#u7133_align_to_page,
+#u7131_align_to_page {
+    max-width: 2560px;
+}
+#u7155 {
+    margin-bottom: -7px;
+    margin-top: -5px;
+    width: 100%;
+}
+#u7131-bw {
+    min-height: 148px;
+    margin-top: 5px;
+}
+#u7383 {
+    z-index: 10;
+    margin-top: 13px;
+    width: 24.22%;
+    left: 0.2%;
+}
+#u7383 .fluid_height_spacer {
+    padding-bottom: 22.58064516129032%;
+}
+#u7389 {
+    z-index: 11;
+    margin-top: 13px;
+    width: 12.54%;
+    left: 77.15%;
+}
+#u7389 .fluid_height_spacer {
+    padding-bottom: 43.613707165109034%;
+}
+#u7453 {
+    z-index: 12;
+    width: 100%;
+}
+#u7114_img,
+#u7455_img,
+#u7155_img,
+#u7453_img {
+    width: 100%;
+}
+#pamphletu7535 {
+    z-index: 16;
+    height: 160px;
+    margin-top: 4px;
+    left: 24.58%;
+}
+#u7538 {
+    width: 2561px;
+    top: 149px;
+    left: -629px;
+}
+#u7538popup {
+    z-index: 17;
+}
+#u7540 {
+    z-index: 18;
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+}
+#u7541 {
+    z-index: 19;
+    width: 2559px;
+    height: 739px;
+}
+#u7539 {
+    z-index: 20;
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/about%20us%20open.png?crc=131277944");
+}
+#u7546 {
+    z-index: 21;
+    width: 608px;
+}
+#u7548 {
+    width: 196px;
+    height: 155px;
+}
+#u7548:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7547 {
+    width: 196px;
+    height: 160px;
+    left: 206px;
+}
+#u7547:hover {
+    width: 196px;
+    height: 160px;
+}
+#u7547.PamphletThumbSelected {
+    width: 196px;
+    height: 160px;
+}
+#u7549 {
+    width: 196px;
+    height: 155px;
+    left: 412px;
+}
+#u7548.PamphletThumbSelected,
+#u7549:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7549.PamphletThumbSelected {
+    width: 196px;
+    height: 155px;
+}
+#u8863 {
+    z-index: 25;
+    margin-top: 4px;
+    width: 14.22%;
+    left: 76.45%;
+}
+#u8863 .fluid_height_spacer {
+    padding-bottom: 40.65934065934066%;
+}
+#pu7355 {
+    margin-top: -12px;
+}
+#u7355 {
+    background-image: url("../images/pag-survey.jpg?crc=407303330");
+}
+#u7355 .fluid_height_spacer {
+    padding-bottom: 44.296875%;
+}
+#u7369 {
+    z-index: 9;
+    background-image: url("../images/foote-2.jpg?crc=359972577");
+    margin-right: -10000px;
+    margin-top: 1113px;
+}
+#u7369 .fluid_height_spacer {
+    padding-bottom: 5.6640625%;
+}
+#u9063 {
+    z-index: 26;
+    margin-top: 616px;
+    width: 13.52%;
+    left: 53.75%;
+}
+#u9063 .fluid_height_spacer {
+    padding-bottom: 43.0635838150289%;
+}

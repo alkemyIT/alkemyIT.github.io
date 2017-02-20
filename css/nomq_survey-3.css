@@ -1,0 +1,211 @@
+#muse_css_mq {
+    background-color: #FFFFFF;
+}
+#bp_infinity.active {
+    display: block;
+}
+#page {
+    min-height: 438px;
+    padding-bottom: 62px;
+    max-width: 2560px;
+}
+#u8416,
+#u8416-bw {
+    min-height: 73px;
+}
+#pu8457 {
+    padding-bottom: 1px;
+    margin-top: -5px;
+}
+#u8457 {
+    min-height: 148px;
+}
+#u8416_align_to_page,
+#u8457_align_to_page {
+    max-width: 2560px;
+}
+#u8436 {
+    margin-bottom: -7px;
+    margin-top: -5px;
+    width: 100%;
+}
+#u8457-bw {
+    min-height: 148px;
+    margin-top: 5px;
+}
+#pamphletu8438 {
+    height: 160px;
+    padding-bottom: 729px;
+    margin-right: -10000px;
+    margin-top: 4px;
+}
+#u8441 {
+    width: 2561px;
+    top: 149px;
+}
+#u8449 {
+    width: 608px;
+    left: 629px;
+}
+#u8452 {
+    width: 196px;
+    height: 155px;
+}
+#u8452:hover {
+    width: 196px;
+    height: 155px;
+}
+#u8451 {
+    width: 196px;
+    height: 160px;
+    left: 206px;
+}
+#u8451:hover {
+    width: 196px;
+    height: 160px;
+}
+#u8450 {
+    width: 196px;
+    height: 155px;
+    left: 412px;
+}
+#u8452.PamphletThumbSelected,
+#u8450:hover {
+    width: 196px;
+    height: 155px;
+}
+#u8418 {
+    margin-top: 13px;
+    width: 24.22%;
+    left: 0.2%;
+}
+#u8418 .fluid_height_spacer {
+    padding-bottom: 22.58064516129032%;
+}
+#u8456 {
+    margin-top: 13px;
+    width: 12.54%;
+    left: 77.15%;
+}
+#u8456 .fluid_height_spacer {
+    padding-bottom: 43.613707165109034%;
+}
+#u8453,
+#u8453_img,
+#u8434,
+#u8434_img,
+#u8436_img,
+#u8458,
+#u8458_img {
+    width: 100%;
+}
+#pamphletu8419 {
+    height: 160px;
+    margin-top: 4px;
+    left: 24.58%;
+}
+#u8430 {
+    width: 2561px;
+    top: 149px;
+    left: -629px;
+}
+#u8442,
+#u8432 {
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+}
+#u8444,
+#u8433 {
+    width: 2559px;
+    height: 739px;
+}
+#u8443,
+#u8431 {
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/about%20us%20open.png?crc=131277944");
+}
+#u8422 {
+    width: 608px;
+}
+#u8450.PamphletThumbSelected,
+#u8424 {
+    width: 196px;
+    height: 155px;
+}
+#u8424:hover {
+    width: 196px;
+    height: 155px;
+}
+#u8425 {
+    width: 196px;
+    height: 160px;
+    left: 206px;
+}
+#u8451.PamphletThumbSelected,
+#u8425:hover {
+    width: 196px;
+    height: 160px;
+}
+#u8425.PamphletThumbSelected {
+    width: 196px;
+    height: 160px;
+}
+#u8423 {
+    width: 196px;
+    height: 155px;
+    left: 412px;
+}
+#u8424.PamphletThumbSelected,
+#u8423:hover {
+    width: 196px;
+    height: 155px;
+}
+#u8423.PamphletThumbSelected {
+    width: 196px;
+    height: 155px;
+}
+#u8893 {
+    margin-top: 4px;
+    width: 23.99%;
+}
+#u8893 .fluid_height_spacer {
+    padding-bottom: 24.267100977198698%;
+}
+#u8899 {
+    margin-top: 4px;
+    width: 13.05%;
+    left: 76.65%;
+}
+#u8899 .fluid_height_spacer {
+    padding-bottom: 44.61077844311377%;
+}
+#pu8417 {
+    z-index: 5;
+    margin-top: -741px;
+    width: 100%;
+}
+#u8417 {
+    background-image: url("../images/pag-survey%20copia%203.jpg?crc=278398445");
+    margin-right: -10000px;
+}
+#u8417 .fluid_height_spacer {
+    padding-bottom: 59.53125%;
+}
+#u8455 {
+    background-image: url("../images/foote-2.jpg?crc=359972577");
+    margin-right: -10000px;
+    margin-top: 1469px;
+}
+#u8455 .fluid_height_spacer {
+    padding-bottom: 5.6640625%;
+}
+#u8799 {
+    margin-right: -10000px;
+    margin-top: 1259px;
+    width: 15.24%;
+}
+#u8799 .fluid_height_spacer {
+    padding-bottom: 37.69230769230769%;
+}

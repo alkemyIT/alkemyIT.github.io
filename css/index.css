@@ -1,0 +1,891 @@
+.version.index {
+    color: #00000B;
+    background-color: #341D03;
+}
+.js body {
+    visibility: hidden;
+}
+.js body.initialized {
+    visibility: visible;
+}
+#page {
+    z-index: 1;
+    min-height: 438px;
+    margin-left: auto;
+    border-color: #000000;
+    background-image: none;
+    background-color: transparent;
+    width: 100%;
+    border-width: 0px;
+    padding-bottom: 62px;
+    margin-right: auto;
+}
+#u465 {
+    z-index: 34;
+    padding-bottom: 6px;
+    background-color: #192F42;
+}
+#u567 {
+    z-index: 35;
+    margin-right: -10000px;
+    background-color: transparent;
+    margin-top: 6px;
+    position: relative;
+}
+#u465-bw {
+    z-index: 34;
+}
+#pamphletu5127 {
+    z-index: 25;
+    width: 0.01px;
+    position: relative;
+}
+#u5128 {
+    position: absolute;
+    background-color: transparent;
+}
+#u5128popup {
+    z-index: 26;
+}
+#u5130 {
+    z-index: 27;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u6169 {
+    z-index: 28;
+    position: relative;
+    border-color: #999999;
+    border-style: solid;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    border-width: 1px;
+    opacity: 0.98;
+    background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
+    background-size: cover;
+}
+#u6216 {
+    z-index: 29;
+    position: relative;
+    border-color: #999999;
+    background-position: left top;
+    border-style: solid;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=98);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=98)";
+    margin-right: -10000px;
+    background-color: #192F42;
+    border-width: 1px;
+    opacity: 0.98;
+    background-size: contain;
+}
+#u5136 {
+    z-index: 30;
+    position: relative;
+    margin-right: -10000px;
+}
+#u5139,
+#u6186,
+#u6228 {
+    border-width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+    position: absolute;
+}
+#u5139:hover,
+#u6186:hover,
+#u6228:hover {
+    min-height: 0px;
+    background-color: transparent;
+    margin: 0px;
+}
+#u5139.PamphletThumbSelected,
+#u6186.PamphletThumbSelected,
+#u6228.PamphletThumbSelected {
+    min-height: 0px;
+    border-color: transparent;
+    background-color: #850038;
+    border-width: 0px;
+    margin: 0px;
+}
+.ie #u5139.PamphletThumbSelected,
+.ie #u6186.PamphletThumbSelected,
+.ie #u6228.PamphletThumbSelected {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+}
+#slideshowu2682 {
+    z-index: 3;
+    width: 0.01px;
+    position: relative;
+    height: 539px;
+}
+#u2694 {
+    height: 539px;
+    position: absolute;
+    background-color: transparent;
+}
+#u2694popup {
+    z-index: 4;
+}
+#u2695 {
+    z-index: 5;
+    border-color: transparent;
+    margin-right: -10000px;
+    background-color: #4F4F4F;
+    border-width: 0px;
+    position: relative;
+    height: 539px;
+}
+#u2908 {
+    z-index: 7;
+    border-color: transparent;
+    margin-right: -10000px;
+    background-color: #4F4F4F;
+    border-width: 0px;
+    position: relative;
+    height: 539px;
+}
+#u2690 {
+    top: 69px;
+    width: 712px;
+    position: absolute;
+    background-color: transparent;
+}
+#u2690popup {
+    z-index: 9;
+}
+#u2691-3 {
+    z-index: 10;
+    min-height: 383px;
+    position: relative;
+    border-color: transparent;
+    filter: alpha(opacity=100);
+    line-height: 20px;
+    padding: 10px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    margin-right: -10000px;
+    width: 692px;
+    color: #999999;
+    border-width: 0px;
+    opacity: 1;
+    background: transparent url("../images/text%20visual%201.png?crc=4226399040") no-repeat left top;
+    background-size: contain;
+}
+#u2954-3 {
+    z-index: 13;
+    min-height: 383px;
+    position: relative;
+    border-color: transparent;
+    filter: alpha(opacity=100);
+    line-height: 20px;
+    padding: 10px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    margin-right: -10000px;
+    width: 692px;
+    color: #999999;
+    border-width: 0px;
+    opacity: 1;
+    background: transparent url("../images/survey%20text.png?crc=170210752") no-repeat left top;
+    background-size: cover;
+}
+#u2688-3 {
+    text-align: center;
+    min-height: 173px;
+    border-color: transparent;
+    filter: alpha(opacity=100);
+    top: 173px;
+    position: absolute;
+    line-height: 20px;
+    padding: 10px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    width: 90px;
+    color: #999999;
+    border-width: 0px;
+    opacity: 1;
+    background: transparent url("../images/arrow.png?crc=29570280") no-repeat left center;
+}
+#u2688-3popup {
+    z-index: 16;
+}
+#u2689-3 {
+    text-align: center;
+    min-height: 209px;
+    border-color: transparent;
+    filter: alpha(opacity=100);
+    top: 155px;
+    position: absolute;
+    line-height: 20px;
+    padding: 10px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+    width: 97px;
+    color: #999999;
+    border-width: 0px;
+    opacity: 1;
+    background: transparent url("../images/arrow-right.png?crc=4164857385") no-repeat right center;
+}
+#u2689-3popup {
+    z-index: 19;
+}
+.PamphletWidget .ThumbGroup .Thumb,
+.PamphletNextButton,
+.PamphletPrevButton,
+.PamphletCloseButton,
+.SSFirstButton,
+.SSPreviousButton,
+.SSNextButton,
+.SSLastButton,
+.SSSlideLink,
+.SSCloseButton {
+    cursor: pointer;
+}
+.SSSlideLoading {
+    background: url("../images/loading.gif?crc=3815509949") no-repeat center center;
+}
+#u478 {
+    z-index: 22;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.31);
+    background-color: #F2EAE4;
+}
+#u465_align_to_page,
+#u478_align_to_page {
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;
+}
+#u530 {
+    z-index: 23;
+    margin-right: -10000px;
+    background-color: transparent;
+    position: relative;
+}
+#u8929 {
+    z-index: 38;
+    position: relative;
+    margin-right: -10000px;
+}
+#u478-bw {
+    z-index: 22;
+}
+#u7024 {
+    z-index: 37;
+    margin-right: -10000px;
+    position: relative;
+}
+.ie #u5139:hover,
+.ie #u5139,
+.ie #u6186:hover,
+.ie #u6186,
+.ie #u6228:hover,
+.ie #u6228,
+.ie #u8929,
+.ie #u7024 {
+    background-color: #FFFFFF;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+    filter: alpha(opacity=1);
+    opacity: 0.01;
+}
+#u6383 {
+    z-index: 2;
+    background-position: left top;
+    background-repeat: no-repeat;
+    filter: alpha(opacity=100);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    background-color: transparent;
+    width: 100%;
+    position: relative;
+    opacity: 1;
+    background-size: contain;
+}
+.html {
+    background-color: #FFFFFF;
+}
+body {
+    position: relative;
+}
+@media (min-width: 1921px),
+print {
+    #muse_css_mq {
+        background-color: #FFFFFF;
+    }
+    #bp_infinity.active {
+        display: block;
+    }
+    #u465,
+    #u465-bw {
+        min-height: 73px;
+    }
+    #pu478 {
+        z-index: 22;
+        margin-top: -7px;
+        width: 100%;
+    }
+    #u478 {
+        min-height: 148px;
+    }
+    #page,
+    #u465_align_to_page,
+    #u478_align_to_page {
+        max-width: 2560px;
+    }
+    #u530 {
+        margin-bottom: -7px;
+        margin-top: -5px;
+        width: 100%;
+    }
+    #u567 {
+        width: 100%;
+    }
+    #u7024 {
+        margin-top: 30px;
+        width: 12.15%;
+        left: 77.62%;
+    }
+    #u7024 .fluid_height_spacer {
+        padding-bottom: 33.762057877813504%;
+    }
+    #u478-bw {
+        min-height: 148px;
+        margin-top: 7px;
+    }
+    #pamphletu5127 {
+        height: 160px;
+        margin-right: -10000px;
+        margin-top: 6px;
+        left: 24.58%;
+    }
+    #u5128 {
+        width: 2561px!important;
+        top: 149px;
+        left: -629px;
+    }
+    #u5130 {
+        width: 2559px;
+        height: 739px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u6169 {
+        width: 2559px;
+        height: 739px;
+    }
+    #u6216 {
+        width: 2559px;
+        height: 739px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u5136 {
+        width: 608px;
+    }
+    #u5139 {
+        width: 196px;
+        height: 155px;
+    }
+    #u5139:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u6186 {
+        width: 196px;
+        height: 160px;
+        left: 206px;
+    }
+    #u6186:hover {
+        width: 196px;
+        height: 160px;
+    }
+    #u6186.PamphletThumbSelected {
+        width: 196px;
+        height: 160px;
+    }
+    #u6228 {
+        width: 196px;
+        height: 155px;
+        left: 412px;
+    }
+    #u5139.PamphletThumbSelected,
+    #u6228:hover {
+        width: 196px;
+        height: 155px;
+    }
+    #u6228.PamphletThumbSelected {
+        width: 196px;
+        height: 155px;
+    }
+    #u8929 {
+        width: 20.83%;
+    }
+    #u8929 .fluid_height_spacer {
+        padding-bottom: 28.893058161350844%;
+    }
+    #slideshowu2682 {
+        top: -11px;
+        margin-bottom: -11px;
+    }
+    #u2694,
+    #u2695,
+    #u2908 {
+        width: 2560px;
+    }
+    #u2690 {
+        left: 174px;
+    }
+    #u2688-3 {
+        left: 21px;
+    }
+    #u2689-3 {
+        left: 2428px;
+    }
+    #u6383 {
+        background-image: url("../images/footer.jpg?crc=3861036413");
+    }
+    #u6383 .fluid_height_spacer {
+        padding-bottom: 140.625%;
+    }
+}
+@media (min-width: 1601px) and (max-width: 1920px) {
+    #muse_css_mq {
+        background-color: #000780;
+    }
+    #bp_1920.active {
+        display: block;
+    }
+    #u465,
+    #u465-bw {
+        min-height: 56px;
+    }
+    #pu478 {
+        z-index: 22;
+        margin-top: -5px;
+        width: 100%;
+    }
+    #page,
+    #u465_align_to_page,
+    #u478_align_to_page {
+        max-width: 1920px;
+    }
+    #u530_img {
+        margin-left: 24px;
+        margin-right: -24px;
+    }
+    #u7024 {
+        margin-bottom: -11px;
+        margin-top: 52px;
+        width: 12.14%;
+        left: 77.61%;
+    }
+    #u7024 .fluid_height_spacer {
+        padding-bottom: 33.90557939914164%;
+    }
+    #u8929 {
+        margin-bottom: -11px;
+        margin-top: 15px;
+        width: 20.84%;
+    }
+    #u8929 .fluid_height_spacer {
+        padding-bottom: 28.999999999999996%;
+    }
+    #u478,
+    #u478-bw {
+        min-height: 120px;
+    }
+    #pamphletu5127 {
+        height: 115px;
+        margin-right: -10000px;
+        margin-top: 5px;
+        left: 25.21%;
+    }
+    #u5128 {
+        width: 1922px!important;
+        top: 116px;
+        left: -485px;
+    }
+    #u5130 {
+        width: 100%;
+        height: 530px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u6169 {
+        width: 100%;
+        height: 530px;
+    }
+    #u6216 {
+        width: 100%;
+        height: 530px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u5136 {
+        width: 466px;
+    }
+    #u5139 {
+        width: 147px;
+        height: 115px;
+    }
+    #u5139:hover {
+        width: 147px;
+        height: 115px;
+    }
+    #u5139.PamphletThumbSelected {
+        width: 147px;
+        height: 115px;
+    }
+    #u6186 {
+        width: 175px;
+        height: 115px;
+        left: 147px;
+    }
+    #u6186:hover {
+        width: 175px;
+        height: 115px;
+    }
+    #u6186.PamphletThumbSelected {
+        width: 175px;
+        height: 115px;
+    }
+    #u6228 {
+        width: 144px;
+        height: 115px;
+        left: 322px;
+    }
+    #u6228:hover {
+        width: 144px;
+        height: 115px;
+    }
+    #u6228.PamphletThumbSelected {
+        width: 144px;
+        height: 115px;
+    }
+    #slideshowu2682 {
+        top: -7px;
+        margin-bottom: -7px;
+    }
+    #u2694 {
+        width: 100%;
+        left: -1px;
+    }
+    #u567,
+    #u530,
+    #u2695,
+    #u2908 {
+        width: 100%;
+    }
+    #u2690 {
+        left: 173px;
+    }
+    #u2688-3 {
+        left: 15px;
+    }
+    #u2689-3 {
+        left: 1788px;
+    }
+    #u6383 {
+        background-image: url("../images/footer.jpg?crc=3861036413");
+    }
+    #u6383 .fluid_height_spacer {
+        padding-bottom: 140.625%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+@media (min-width: 1369px) and (max-width: 1600px) {
+    #muse_css_mq {
+        background-color: #000640;
+    }
+    #bp_1600.active {
+        display: block;
+    }
+    #ppamphletu5127 {
+        z-index: 25;
+        width: 100%;
+    }
+    #pamphletu5127 {
+        height: 104px;
+        margin-right: -10000px;
+        margin-top: 37px;
+        left: 24.88%;
+    }
+    #u5128 {
+        width: 1601px!important;
+        top: 103px;
+        left: -398px;
+    }
+    #u5130 {
+        width: 1599px;
+        height: 540px;
+        background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+    }
+    #u6169 {
+        width: 1599px;
+        height: 540px;
+    }
+    #u6216 {
+        width: 1599px;
+        height: 540px;
+        background-image: url("../images/about%20us%20open.png?crc=131277944");
+    }
+    #u5136 {
+        width: 377px;
+    }
+    #u5139 {
+        width: 119px;
+        height: 104px;
+    }
+    #u5139:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u6186 {
+        width: 129px;
+        height: 104px;
+        left: 119px;
+    }
+    #u6186:hover {
+        width: 129px;
+        height: 104px;
+    }
+    #u6186.PamphletThumbSelected {
+        width: 129px;
+        height: 104px;
+    }
+    #u6228 {
+        width: 119px;
+        height: 104px;
+        left: 258px;
+    }
+    #u5139.PamphletThumbSelected,
+    #u6228:hover {
+        width: 119px;
+        height: 104px;
+    }
+    #u6228.PamphletThumbSelected {
+        width: 119px;
+        height: 104px;
+    }
+    #u465,
+    #u465-bw {
+        min-height: 48px;
+    }
+    #pslideshowu2682 {
+        z-index: 3;
+        margin-top: -88px;
+        width: 100%;
+    }
+    #slideshowu2682 {
+        margin-right: -10000px;
+        margin-top: 88px;
+    }
+    #u567,
+    #u2694,
+    #u2695,
+    #u2908 {
+        width: 100%;
+    }
+    #u2690 {
+        left: 110px;
+    }
+    #u2688-3 {
+        left: 21px;
+    }
+    #u2689-3 {
+        left: 1463px;
+    }
+    #page,
+    #u465_align_to_page,
+    #u478_align_to_page {
+        max-width: 1600px;
+    }
+    #u530 {
+        width: 100%;
+        margin-bottom: -7px;
+        margin-top: -5px;
+    }
+    #u8929 {
+        margin-bottom: -27px;
+        margin-top: 19px;
+        width: 20.82%;
+    }
+    #u8929 .fluid_height_spacer {
+        padding-bottom: 28.82882882882883%;
+    }
+    #u478,
+    #u478-bw {
+        min-height: 88px;
+    }
+    #u7024 {
+        margin-top: 55px;
+        width: 12.13%;
+        left: 77.63%;
+    }
+    #u7024 .fluid_height_spacer {
+        padding-bottom: 34.02061855670103%;
+    }
+    #u6383 {
+        background-image: url("../images/footer.jpg?crc=3861036413");
+        margin-top: 28px;
+    }
+    #u6383 .fluid_height_spacer {
+        padding-bottom: 140.625%;
+    }
+    body {
+        overflow-x: hidden;
+    }
+}
+@media (max-width: 1368px) {
+    #muse_css_mq {
+        background-color: #000558;
+    }
+    #bp_1368.active {
+        display: block;
+    }
+    #u465,
+    #u465-bw {
+        min-height: 42px;
+    }
+    #pamphletu5127 {
+        height: 85px;
+        top: -5px;
+        margin-bottom: -5px;
+        margin-left: 24.64%;
+    }
+    #u5128 {
+        width: 1369px!important;
+        top: 78px;
+        left: -337px;
+    }
+    #u5130 {
+        width: 100%;
+        height: 538px;
+        background-image: url("../images/focus%20area%20open%20copia-u5130-fr.png?crc=4001975672");
+    }
+    #u6169 {
+        width: 100%;
+        height: 538px;
+    }
+    #u6216 {
+        width: 100%;
+        height: 538px;
+        background-image: url("../images/about%20us%20open-u6216-fr.png?crc=399075974");
+    }
+    #u5136 {
+        width: 322px;
+    }
+    #u5139 {
+        width: 104px;
+        height: 85px;
+    }
+    #u5139:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #u6186 {
+        width: 114px;
+        height: 85px;
+        left: 104px;
+    }
+    #u6186:hover {
+        width: 114px;
+        height: 85px;
+    }
+    #u6186.PamphletThumbSelected {
+        width: 114px;
+        height: 85px;
+    }
+    #u6228 {
+        width: 104px;
+        height: 85px;
+        left: 218px;
+    }
+    #u5139.PamphletThumbSelected,
+    #u6228:hover {
+        width: 104px;
+        height: 85px;
+    }
+    #u6228.PamphletThumbSelected {
+        width: 104px;
+        height: 85px;
+    }
+    #pslideshowu2682 {
+        z-index: 3;
+        margin-top: -80px;
+        width: 100%;
+    }
+    #slideshowu2682 {
+        margin-right: -10000px;
+        margin-top: 73px;
+    }
+    #u2694 {
+        width: 1368px;
+        left: -1px;
+    }
+    #u567,
+    #u2695,
+    #u2908 {
+        width: 1368px;
+    }
+    #u2690 {
+        left: 173px;
+    }
+    #u2688-3 {
+        left: 20px;
+    }
+    #u2689-3 {
+        left: 1231px;
+    }
+    #page,
+    #u465_align_to_page,
+    #u478_align_to_page {
+        max-width: 1368px;
+    }
+    #u530 {
+        width: 1368px;
+        margin-bottom: -6px;
+        margin-top: -5px;
+    }
+    #u8929 {
+        margin-bottom: -33px;
+        margin-top: 25px;
+        width: 20.84%;
+    }
+    #u8929 .fluid_height_spacer {
+        padding-bottom: 28.771929824561404%;
+    }
+    #u478,
+    #u478-bw {
+        min-height: 74px;
+    }
+    #u7024 {
+        margin-top: 61px;
+        width: 12.14%;
+        left: 77.64%;
+    }
+    #u7024 .fluid_height_spacer {
+        padding-bottom: 33.734939759036145%;
+    }
+    #u6383 {
+        background-image: url("../images/footer-u6383-fr.jpg?crc=3972630034");
+        margin-top: 49px;
+    }
+    #u6383 .fluid_height_spacer {
+        padding-bottom: 140.64327485380116%;
+    }
+    body {
+        overflow-x: hidden;
+        min-width: 320px;
+    }
+}

@@ -1,0 +1,216 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ciisac.com" resolutions="1x" timestamp="1487581135149">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="login.css" crc="316012379" ref="login"/>
+    <file name="nomq_login.css" crc="3994152597" ref="login"/>
+    <file name="index.css" crc="187964675" ref="index"/>
+    <file name="nomq_index.css" crc="447480791" ref="index"/>
+    <file name="survey-page.css" crc="105148274" ref="survey-page"/>
+    <file name="nomq_survey-page.css" crc="324858947" ref="survey-page"/>
+    <file name="survey-2.css" crc="4284230410" ref="survey-2"/>
+    <file name="nomq_survey-2.css" crc="371375642" ref="survey-2"/>
+    <file name="survey.css" crc="3960725831" ref="survey"/>
+    <file name="nomq_survey.css" crc="3937544242" ref="survey"/>
+    <file name="survey-3.css" crc="440907281" ref="survey-3"/>
+    <file name="nomq_survey-3.css" crc="377504838" ref="survey-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="museutils.js" crc="4232573551" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="webpro.js" crc="3770351119" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="require.js" crc="4234670167" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+  </folder>
+  <folder name="images">
+    <file name="header generale.png" crc="195511344" seo="true" ref="index:login:survey-page:survey:survey-2:survey-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+    </file>
+    <file name="header 1° livello.png" crc="4005999578" seo="true" ref="index:login:survey-page:survey:survey-2:survey-3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-2" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-3" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+      <caption webpage="survey-page" alt=""/>
+    </file>
+    <file name="focus area open copia.png" crc="151249171" ref="index:login:survey-page:survey:survey-2:survey-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mission - ethics open copia 2.png" crc="144110946" ref="index:login:survey-page:survey:survey-2:survey-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about us open.png" crc="131277944" ref="index:login:survey-page:survey:survey-2:survey-3">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="visual 1.jpg" crc="4124034684" seo="true" ref="index:login">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="visual survey.jpg" crc="397588739" seo="true" ref="index:login">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="text visual 1.png" crc="4226399040" ref="index:login">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="survey text.png" crc="170210752" ref="index:login">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow.png" crc="29570280" ref="index:login">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="arrow-right.png" crc="4164857385" ref="index:login">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:login"/>
+    <file name="footer.jpg" crc="3861036413" ref="index:login">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="focus area open copia-u5130-fr.png" crc="4001975672" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="about us open-u6216-fr.png" crc="399075974" ref="index:login:survey-page:survey:survey-2:survey-3"/>
+    <file name="footer-u6383-fr.jpg" crc="3972630034" ref="index:login"/>
+    <file name="sign in.jpg" crc="254342871" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="sign in582x350.jpg" crc="4133311989" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="sign in498x300.jpg" crc="3950065814" seo="true" ref="login">
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="pag-survey.jpg" crc="407303330" ref="survey-page">
+      <caption webpage="survey-page" alt=""/>
+    </file>
+    <file name="foote-2.jpg" crc="359972577" ref="survey-page:survey:survey-2:survey-3">
+      <caption webpage="survey-page" alt=""/>
+    </file>
+    <file name="pag-survey-u7355-fr.jpg" crc="264852275" ref="survey-page"/>
+    <file name="foote-2-u7369-fr.jpg" crc="8827729" ref="survey-page:survey:survey-2:survey-3"/>
+    <file name="pag-survey copia.jpg" crc="318514395" ref="survey">
+      <caption webpage="survey" alt=""/>
+    </file>
+    <file name="pag-survey copia-u7758-fr.jpg" crc="255213014" ref="survey"/>
+    <file name="pag-survey copia 2.jpg" crc="490411070" ref="survey-2">
+      <caption webpage="survey-2" alt=""/>
+    </file>
+    <file name="pag-survey copia 2-u8212-fr.jpg" crc="482523995" ref="survey-2"/>
+    <file name="pag-survey copia 3.jpg" crc="278398445" ref="survey-3">
+      <caption webpage="survey-3" alt=""/>
+    </file>
+    <file name="pag-survey copia 3-u8417-fr.jpg" crc="270494557" ref="survey-3"/>
+  </folder>
+  <file name="index.html" crc="226396626" seo="true" mt="1487542113425" redirect="true"/>
+  <file name="login.html" crc="423215472" seo="true" mt="1487581131306" redirect="true"/>
+  <file name="survey-page.html" crc="3761080861" seo="true" mt="1487577083353" redirect="true"/>
+  <file name="survey.html" crc="4003762125" seo="true" mt="1487576746553" redirect="true"/>
+  <file name="survey-2.html" crc="3817997450" seo="true" mt="1487576822861" redirect="true"/>
+  <file name="survey-3.html" crc="4116825489" seo="true" mt="1487576855991" redirect="true"/>
+</manifest>

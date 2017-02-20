@@ -1,0 +1,206 @@
+#muse_css_mq {
+    background-color: #FFFFFF;
+}
+#bp_infinity.active {
+    display: block;
+}
+#page {
+    min-height: 438px;
+    padding-bottom: 62px;
+    max-width: 2560px;
+}
+#u7757,
+#u7757-bw {
+    min-height: 73px;
+}
+#pu7784 {
+    padding-bottom: 1px;
+    margin-top: -7px;
+}
+#u7784 {
+    min-height: 148px;
+}
+#u7757_align_to_page,
+#u7784_align_to_page {
+    max-width: 2560px;
+}
+#u7780 {
+    margin-bottom: -7px;
+    margin-top: -5px;
+    width: 100%;
+}
+#u7784-bw {
+    min-height: 148px;
+    margin-top: 7px;
+}
+#pamphletu7741 {
+    height: 160px;
+    padding-bottom: 729px;
+    margin-right: -10000px;
+    margin-top: 6px;
+}
+#u7742 {
+    width: 2561px;
+    top: 149px;
+}
+#u7750 {
+    width: 608px;
+    left: 629px;
+}
+#u7751 {
+    width: 196px;
+    height: 155px;
+}
+#u7751:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7753 {
+    width: 196px;
+    height: 160px;
+    left: 206px;
+}
+#u7753:hover {
+    width: 196px;
+    height: 160px;
+}
+#u7752 {
+    width: 196px;
+    height: 155px;
+    left: 412px;
+}
+#u7751.PamphletThumbSelected,
+#u7752:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7776 {
+    margin-top: 15px;
+    width: 24.22%;
+    left: 0.2%;
+}
+#u7776 .fluid_height_spacer {
+    padding-bottom: 22.58064516129032%;
+}
+#u7756 {
+    margin-top: 15px;
+    width: 12.54%;
+    left: 77.15%;
+}
+#u7756 .fluid_height_spacer {
+    padding-bottom: 43.613707165109034%;
+}
+#u7782 {
+    margin-top: 2px;
+    width: 100%;
+}
+#u7777,
+#u7777_img,
+#u7759,
+#u7759_img,
+#u7780_img,
+#u7782_img {
+    width: 100%;
+}
+#pamphletu7761 {
+    height: 160px;
+    margin-top: 6px;
+    left: 24.58%;
+}
+#u7766 {
+    width: 2561px;
+    top: 149px;
+    left: -629px;
+}
+#u7745,
+#u7769 {
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/focus%20area%20open%20copia.png?crc=151249171");
+}
+#u7743,
+#u7768 {
+    width: 2559px;
+    height: 739px;
+}
+#u7744,
+#u7767 {
+    width: 2559px;
+    height: 739px;
+    background-image: url("../images/about%20us%20open.png?crc=131277944");
+}
+#u7770 {
+    width: 608px;
+}
+#u7752.PamphletThumbSelected,
+#u7773 {
+    width: 196px;
+    height: 155px;
+}
+#u7773:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7772 {
+    width: 196px;
+    height: 160px;
+    left: 206px;
+}
+#u7753.PamphletThumbSelected,
+#u7772:hover {
+    width: 196px;
+    height: 160px;
+}
+#u7772.PamphletThumbSelected {
+    width: 196px;
+    height: 160px;
+}
+#u7771 {
+    width: 196px;
+    height: 155px;
+    left: 412px;
+}
+#u7773.PamphletThumbSelected,
+#u7771:hover {
+    width: 196px;
+    height: 155px;
+}
+#u7771.PamphletThumbSelected {
+    width: 196px;
+    height: 155px;
+}
+#u8869 {
+    width: 24.07%;
+    left: 0.32%;
+}
+#u8869 .fluid_height_spacer {
+    padding-bottom: 25.162337662337663%;
+}
+#u8875 {
+    margin-top: 6px;
+    width: 13.29%;
+    left: 76.41%;
+}
+#u8875 .fluid_height_spacer {
+    padding-bottom: 43.8235294117647%;
+}
+#pu7758 {
+    z-index: 5;
+    margin-top: -741px;
+    width: 100%;
+}
+#u7758 {
+    background-image: url("../images/pag-survey%20copia.jpg?crc=318514395");
+    margin-right: -10000px;
+}
+#u7758 .fluid_height_spacer {
+    padding-bottom: 59.53125%;
+}
+#u7779 {
+    background-image: url("../images/foote-2.jpg?crc=359972577");
+    margin-right: -10000px;
+    margin-top: 1469px;
+}
+#u7779 .fluid_height_spacer {
+    padding-bottom: 5.6640625%;
+}

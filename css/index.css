@@ -769,13 +769,18 @@ print {
         left: -337px;
     }
     #u5130 {
+        width: 100%;
         height: 538px;
+        background-image: url("../images/focus%20area%20open%20copia-u5130-fr.png?crc=4001975672");
     }
     #u6169 {
+        width: 100%;
         height: 538px;
     }
     #u6216 {
+        width: 100%;
         height: 538px;
+        background-image: url("../images/about%20us%20open-u6216-fr.png?crc=399075974");
     }
     #u5136 {
         width: 322px;

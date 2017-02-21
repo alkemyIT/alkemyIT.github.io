@@ -73,7 +73,7 @@
     border-width: 1px;
     opacity: 0.98;
     background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
-    background-size: cover;
+    background-size: contain;
 }
 #u6216 {
     z-index: 29;

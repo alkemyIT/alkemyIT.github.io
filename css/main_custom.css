@@ -71,10 +71,20 @@ div.Thumb.popup_element.PamphletThumbSelected{
   padding-top: 10px;
   clear: both;
   max-width: 2560px;
+  position:relative;
 }
 
 .content img{
   width: 100%;
+}
+
+.content a {
+  position: absolute;
+  display: block;
+  height: 4.5%;
+  width: 11%;
+  bottom: 13%;
+  left: 0.5%;
 }
 
 #u5130 {

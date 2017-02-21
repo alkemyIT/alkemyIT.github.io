@@ -15,11 +15,11 @@
   right: 15px !important;
 }
 #u2695{
-background:#4F4F4F url(../images/visual%201.jpg?crc=4124034684) right 10% center no-repeat;
+background:#4F4F4F url(../images/visual%201.jpg?crc=4124034684) center center no-repeat;
 background-size: cover;
 }
 #u2908{
-background:#4F4F4F url(../images/visual%20survey.jpg?crc=397588739) right 10% center no-repeat;
+background:#4F4F4F url(../images/visual%20survey.jpg?crc=397588739) center center no-repeat;
 background-size: cover;
 }
 .SSSlide img{
@@ -176,6 +176,14 @@ div.Thumb.popup_element.PamphletThumbSelected{
  .SlideShowCaptionPanel{
    top: 110px!important;
  }
+  #u2695{
+  background:#4F4F4F url(../images/visual%201.jpg?crc=4124034684) right 10% center no-repeat;
+  background-size: cover;
+  }
+  #u2908{
+  background:#4F4F4F url(../images/visual%20survey.jpg?crc=397588739) right 10% center no-repeat;
+  background-size: cover;
+  }
 }
 
 @media (max-width: 1368px) {
@@ -221,4 +229,12 @@ div.Thumb.popup_element.PamphletThumbSelected{
  .SlideShowCaptionPanel{
    top: 119px!important;
  }
+ #u2695{
+  background:#4F4F4F url(../images/visual%201.jpg?crc=4124034684) right 10% center no-repeat;
+  background-size: cover;
+  }
+  #u2908{
+  background:#4F4F4F url(../images/visual%20survey.jpg?crc=397588739) right 10% center no-repeat;
+  background-size: cover;
+  }
 }

@@ -78,7 +78,7 @@ div.Thumb.popup_element.PamphletThumbSelected{
   width: 100%;
 }
 
-.content a {
+.content .backlink {
   position: absolute;
   display: block;
   height: 4.5%;

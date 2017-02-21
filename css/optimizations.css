@@ -1,4 +1,4 @@
-﻿.SlideShowWidget{
+.SlideShowWidget{
   width: 100% !important;
 }
 
@@ -171,10 +171,10 @@ div.Thumb.popup_element.PamphletThumbSelected{
    left: -365px!important;
  }
  .SSSlideCaption {
-   min-height: 340px!important;
+   min-height: 320px!important;
  }
  .SlideShowCaptionPanel{
-   top: 99px!important;
+   top: 110px!important;
  }
 }
 
@@ -216,9 +216,9 @@ div.Thumb.popup_element.PamphletThumbSelected{
    left: -300px!important;
  }
  .SSSlideCaption {
-   min-height: 300px!important;
+   min-height: 280px!important;
  }
  .SlideShowCaptionPanel{
-   top: 109px!important;
+   top: 119px!important;
  }
 }

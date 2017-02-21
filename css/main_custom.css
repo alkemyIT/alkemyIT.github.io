@@ -1,4 +1,4 @@
-﻿body{
+body{
   margin: 0;
   padding: 0;
   min-width: 1250px;
@@ -93,7 +93,7 @@ div.Thumb.popup_element.PamphletThumbSelected{
     border-width: 1px;
     opacity: 0.98;
     background-size: contain;
-    background-image: url("../images/focus%20area%20open%20copia.png");
+    background: #192F42 url("../images/focus%20area%20open%20copia.png") no-repeat left top;
 }
 #u6169 {
     width: 100%;display:none;
@@ -110,7 +110,6 @@ div.Thumb.popup_element.PamphletThumbSelected{
     background: #192F42 url("../images/mission%20-%20ethics%20open%20copia%202.png?crc=144110946") no-repeat left top;
 }
 #u6216 {
-  
     width: 100%;display:none;
     z-index: 29;
     position: relative;
@@ -125,7 +124,7 @@ div.Thumb.popup_element.PamphletThumbSelected{
     border-width: 1px;
     opacity: 0.98;
     background-size: contain;
-    background-image: url("../images/about%20us%20open.png");
+    background: #192F42 url("../images/about%20us%20open.png") no-repeat left top;
 }
 
 @media (min-width: 1921px), print{
@@ -271,18 +270,13 @@ div.Thumb.popup_element.PamphletThumbSelected{
     top: 183px;
  }
  #u5130 {
-        width: 100%;
         height: 538px;
-        background-image: url("../images/focus%20area%20open%20copia-u5130-fr.png?crc=4001975672");
     }
     #u6169 {
-        width: 100%;
         height: 538px;
     }
     #u6216 {
-        width: 100%;
         height: 538px;
-        background-image: url("../images/about%20us%20open-u6216-fr.png?crc=399075974");
     }
 }
 

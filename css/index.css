@@ -201,7 +201,7 @@
     border-width: 0px;
     opacity: 1;
     background: transparent url("../images/survey%20text.png?crc=170210752") no-repeat left top;
-    background-size: cover;
+    background-size: contain;
 }
 #u2688-3 {
     text-align: center;

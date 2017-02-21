@@ -14,15 +14,15 @@
   <script>
     $(document).ready(function(){
       $('.popup1').click( function() {
-        $('.ContainerGroup div').css('display', 'none');
+	    $('.ContainerGroup div').css('display', 'none');
         $('#u5130').css('display', 'block');
       });
       $('.popup2').click( function() {
-        $('.ContainerGroup div').css('display', 'none');
+	    $('.ContainerGroup div').css('display', 'none');
         $('#u6169').css('display', 'block');
       });
       $('.popup3').click(function() {
-        $('.ContainerGroup div').css('display', 'none');
+	    $('.ContainerGroup div').css('display', 'none');
         $('#u6216').css('display', 'block');
       });
       $('body').not('.popup1, #u5130').hover( function() {
@@ -42,37 +42,41 @@
   
   <body class="survey_responsive">
     <div class="pre_header">
-      <img class="block left" src="images/pre-header_left.png"/>
-      <img class="block right" src="images/pre-header_right.png"/>
+      <div class="wrapper">
+        <img class="block left" src="images/pre-header_left.png"/>
+        <img class="block right" src="images/pre-header_right.png"/>
+      </div>
     </div>
     <div class="header">
-      <a class="block left" href="index.html"><img src="images/header_left.png"/></a>
-      <div class="ThumbGroup">
-        <div class="popup_anchor popup1">
-          <div class="Thumb popup_element">Focus Area</div>
-         </div>
-         <div class="popup_anchor popup2">
-          <div class="Thumb popup_element">Mission & Ethnics</div>
-         </div>
-         <div class="popup_anchor popup3">
-          <div class="Thumb popup_element">About Us</div>
-         </div>
-         <div class="popup_anchor">
-          <div class="Thumb popup_element">Our Works</div>
-         </div>
-         <div class="popup_anchor">
-          <div class="Thumb popup_element">Care Services</div>
-         </div>
-         <div class="popup_anchor">
-          <div class="Thumb popup_element">Partners</div>
-         </div>
+      <div class="wrapper">
+        <a class="block left" href="index.html"><img src="images/header_left.png"/></a>
+        <div class="ThumbGroup">
+          <div class="popup_anchor popup1">
+            <div class="Thumb popup_element">Focus Area</div>
+           </div>
+           <div class="popup_anchor popup2">
+            <div class="Thumb popup_element">Mission & Ethnics</div>
+           </div>
+           <div class="popup_anchor popup3">
+            <div class="Thumb popup_element">About Us</div>
+           </div>
+           <div class="popup_anchor">
+            <div class="Thumb popup_element">Our Works</div>
+           </div>
+           <div class="popup_anchor">
+            <div class="Thumb popup_element">Care Services</div>
+           </div>
+           <div class="popup_anchor">
+            <div class="Thumb popup_element">Partners</div>
+           </div>
+        </div>
+        <div class="ContainerGroup clearfix"><!-- stack box -->
+          <div id="u5130"></div>
+          <div id="u6169"></div>
+          <div id="u6216"></div>
+        </div>
+        <a class="block right" href="login.html"><img src="images/header_right.png"/></a>
       </div>
-      <div class="ContainerGroup clearfix"><!-- stack box -->
-        <div id="u5130"></div>
-        <div id="u6169"></div>
-        <div id="u6216"></div>
-      </div>
-      <a class="block right" href="login.html"><img src="images/header_right.png"/></a>
     </div>
     <div class="content"><a href="survey-3.html"><img src="images/pag-survey%20copia%203.jpg"></a></div>
    </body>

@@ -14,7 +14,12 @@
   box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.31);
   background-color: #F2EAE4;
   float: left;
-  width: 100%;  
+  width: 100%;
+}
+
+.wrapper {
+  max-width: 2560px;
+  margin: 0 auto;
 }
 
 .block.left{
@@ -59,11 +64,14 @@ div.Thumb.popup_element.PamphletThumbSelected{
 
 .ContainerGroup{
   width: 100%;
+  max-width: 2560px;
+}
 }
 
 .content{
   padding-top: 10px;
   clear: both;
+  max-width: 2560px;
 }
 
 .content img{
